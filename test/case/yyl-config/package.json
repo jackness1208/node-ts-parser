@@ -1,0 +1,6 @@
+{
+  "name": "ts-parser-test-case-yyl-config",
+  "dependencies": {
+    "init-yyl-config": "^0.1.3"
+  }
+}

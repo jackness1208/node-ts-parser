@@ -1,3 +1,5 @@
+node-ts-parser / [Exports](modules.md)
+
 # node-ts-parser
 
 用于 node 环境下 转换 typescript 文件 成 js 并且获取其内容
