@@ -1,4 +1,4 @@
-const { TestScheduler } = require("jest");
+const { TestScheduler } = require('jest')
 const {} = require('../../')
 
 test('usage test', () => {
