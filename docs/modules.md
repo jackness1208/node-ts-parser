@@ -16,20 +16,20 @@
 
 ### tsParser
 
-▸ **tsParser**<T\>(`op`: [_TsParserOption_](interfaces/tsparseroption.md)): _TsParserResult_<T\>
+▸ **tsParser**<T\>(`op`: [*TsParserOption*](interfaces/tsparseroption.md)): *TsParserResult*<T\>
 
 #### Type parameters:
 
-| Name | Default |
-| :--- | :------ |
-| `T`  | _any_   |
+Name | Default |
+:------ | :------ |
+`T` | *any* |
 
 #### Parameters:
 
-| Name | Type                                             |
-| :--- | :----------------------------------------------- |
-| `op` | [_TsParserOption_](interfaces/tsparseroption.md) |
+Name | Type |
+:------ | :------ |
+`op` | [*TsParserOption*](interfaces/tsparseroption.md) |
 
-**Returns:** _TsParserResult_<T\>
+**Returns:** *TsParserResult*<T\>
 
-Defined in: [index.ts:26](https://github.com/jackness1208/ts-parser/blob/1ec4409/src/index.ts#L26)
+Defined in: [index.ts:26](https://github.com/jackness1208/ts-parser/blob/8da260d/src/index.ts#L26)

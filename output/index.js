@@ -1,5 +1,5 @@
 /*!
- * node-ts-parser cjs 0.1.1
+ * node-ts-parser cjs 0.1.2
  * (c) 2020 - 2021 
  * Released under the MIT License.
  */
@@ -83,6 +83,5 @@ function tsParser(op) {
     }
     return r;
 }
-module.exports = tsParser;
 
 exports.tsParser = tsParser;
