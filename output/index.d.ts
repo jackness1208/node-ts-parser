@@ -5,5 +5,5 @@ export interface TsParserOption {
     file: string;
 }
 declare type TsParserResult<T = any> = [Error | undefined, T?];
-export declare function tsParser<T = any>(op: TsParserOption): TsParserResult;
+export declare function tsParser<T = any>(op: TsParserOption): TsParserResult<T>;
 export {};
