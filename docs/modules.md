@@ -16,7 +16,7 @@
 
 ### tsParser
 
-▸ **tsParser**<T\>(`op`: [*TsParserOption*](interfaces/tsparseroption.md)): TsParserResult
+▸ **tsParser**<T\>(`op`: [*TsParserOption*](interfaces/tsparseroption.md)): *TsParserResult*<T\>
 
 #### Type parameters:
 
@@ -30,6 +30,6 @@ Name | Type |
 :------ | :------ |
 `op` | [*TsParserOption*](interfaces/tsparseroption.md) |
 
-**Returns:** TsParserResult
+**Returns:** *TsParserResult*<T\>
 
-Defined in: [index.ts:26](https://github.com/jackness1208/ts-parser/blob/d02a627/src/index.ts#L26)
+Defined in: [index.ts:26](https://github.com/jackness1208/ts-parser/blob/1ec4409/src/index.ts#L26)

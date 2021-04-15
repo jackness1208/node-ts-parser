@@ -23,7 +23,7 @@ export interface TsParserOption {
 
 type TsParserResult<T = any> = [Error | undefined, T?]
 
-export function tsParser<T = any>(op: TsParserOption): TsParserResult {
+export function tsParser<T = any>(op: TsParserOption): TsParserResult<T> {
   const { file, context } = op
   let r: TsParserResult<T> = [undefined]
   let cwd = process.cwd()
