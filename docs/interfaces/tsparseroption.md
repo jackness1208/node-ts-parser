@@ -13,17 +13,17 @@
 
 ### context
 
-• `Optional` **context**: *string*
+• `Optional` **context**: _string_
 
 作用域
 
 Defined in: [index.ts:19](https://github.com/jackness1208/ts-parser/blob/1ec4409/src/index.ts#L19)
 
-___
+---
 
 ### file
 
-• **file**: *string*
+• **file**: _string_
 
 ts 文件路径
 
