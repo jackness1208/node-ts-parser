@@ -101,5 +101,3 @@ export function tsParser<T = any>(op: TsParserOption): TsParserResult<T> {
   }
   return r
 }
-
-module.exports = tsParser
