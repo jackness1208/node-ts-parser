@@ -32,4 +32,4 @@ Name | Type |
 
 **Returns:** *TsParserResult*<T\>
 
-Defined in: [index.ts:26](https://github.com/jackness1208/ts-parser/blob/8da260d/src/index.ts#L26)
+Defined in: [index.ts:26](https://github.com/jackness1208/node-ts-parser/blob/ebc41d9/src/index.ts#L26)

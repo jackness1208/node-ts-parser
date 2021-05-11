@@ -17,7 +17,7 @@
 
 作用域
 
-Defined in: [index.ts:19](https://github.com/jackness1208/ts-parser/blob/8da260d/src/index.ts#L19)
+Defined in: [index.ts:19](https://github.com/jackness1208/node-ts-parser/blob/ebc41d9/src/index.ts#L19)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 ts 文件路径
 
-Defined in: [index.ts:21](https://github.com/jackness1208/ts-parser/blob/8da260d/src/index.ts#L21)
+Defined in: [index.ts:21](https://github.com/jackness1208/node-ts-parser/blob/ebc41d9/src/index.ts#L21)
