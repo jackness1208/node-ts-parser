@@ -1,5 +1,5 @@
 /*!
- * node-ts-parser cjs 0.1.2
+ * node-ts-parser cjs 0.1.3
  * (c) 2020 - 2021 
  * Released under the MIT License.
  */
